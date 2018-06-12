@@ -6,7 +6,7 @@
 
 /* 
  * File:   main.c
- * Author: kaxorro
+ * Author: Cristian Palacios
  *
  * Created on 10 de junio de 2018, 3:30
  */
